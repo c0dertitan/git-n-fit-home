@@ -1,2 +1,2 @@
-# git-n-fit-home
-The git-n-fit home page for the application
+# All of this is just for the home page of git'n'fit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
